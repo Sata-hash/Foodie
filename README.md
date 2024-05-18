@@ -17,4 +17,3 @@ The feautres can be broadly divided into two parts :
 * Change the status of a order once it is completed
  
 ## Deployed link
-https://foodify2.herokuapp.com/
