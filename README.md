@@ -18,3 +18,5 @@ The feautres can be broadly divided into two parts :
  
 ## Deployed link
 https://foodify-oazo.onrender.com/
+
+## Copyright goes to-->Satavisa Das.
